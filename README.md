@@ -9,6 +9,6 @@ I'm a 20-year-old programmer passionate about coding and problem-solving. I spec
 - **Tools**: Visual Studio, Git, Docker, SQL Server
 
 ## 💻 Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parsamhl&layout=compact)
 
 
