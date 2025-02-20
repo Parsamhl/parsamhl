@@ -8,10 +8,7 @@ I'm a 20-year-old programmer passionate about coding and problem-solving. I spec
 - **Frameworks**: .NET, ASP.NET
 - **Tools**: Visual Studio, Git, Docker, SQL Server
 
-## 📈 GitHub Stats
-![Parsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-
-## 📫 How to reach me:
-- LinkedIn: [Your LinkedIn]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/parsa-mousavi-5a0242330))
+## 💻 Most Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
 
