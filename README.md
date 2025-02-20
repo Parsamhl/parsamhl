@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋, I'm Parsa
 
-<!--
-**Parsamhl/parsamhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a 20-year-old programmer passionate about coding and problem-solving. I specialize in the .NET framework and love creating scalable and efficient applications. I'm always learning and exploring new technologies to improve my skills.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools:
+- **Languages**: C#, Python, JavaScript
+- **Frameworks**: .NET, ASP.NET
+- **Tools**: Visual Studio, Git, Docker, SQL Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Parsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+## 📫 How to reach me:
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourname)
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- Portfolio: [Your Portfolio](https://yourportfolio.com)
+
